@@ -40,24 +40,28 @@
 
 ## 🚀 Projects (Coming Soon)
 
-- 🔹 Go Backend Microservice Starter
-- 🔹 AWS Deployment + DevOps Pipeline Project
-- 🔹 Terraform Infrastructure Setup Repo
-- 🔹 System Design Notes for Interviews
-
----
+- 🔹
 
 ## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shreya-baranwal-1103802a5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/Shreyasher786" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/sher_baranwal_?igsh=MXE3dTMyYW0wd2szeA==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <!-- Email -->
+  <a href="shreyabaranwal229@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
----
-
-⭐ *Learning publicly. Building consistently. Growing into Cloud Engineering.*
