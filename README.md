@@ -1,46 +1,62 @@
 <h1 align="center">Hi 👋, I'm Shreya Baranwal</h1>
 <h3 align="center">Go Backend Developer | AWS Certified | Aspiring Cloud & DevOps Engineer</h3>
+```go
+package main
 
+import "fmt"
+
+type Engineer struct {
+	Name  string
+	Focus string
+}
+
+func main() {
+	me := Engineer{
+		Name:  "Shreya Baranwal",
+		Focus: "Backend + Cloud + DevOps",
+	}
+
+	fmt.Println("Hi, I'm", me.Name)
+	fmt.Println("Currently building skills in:", me.Focus)
+}
 
 ## 🚀 About Me
-
-- 🎓 IT Student at KIET Ghaziabad  
 - 💻 Learning Backend Development with **Golang**
-- ☁️ Exploring **AWS Cloud & DevOps Tools**
-- ⚙️ Interested in **System Design & Scalable Architectures**
 - 🎯 Actively preparing for **Backend / Cloud Internship Roles**
+- 🎤 Active in MUNs, public speaking, sponsorship, and event management
+- 🎯 Aspiring Cloud Architect, growing step-by-step through real projects
+- 🛠 Skilled in Docker, Git, and learning automation through CI/CD pipelines
 
 
 ## 🛠 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python" />
+### 👨‍💻 Languages & Markup
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,bash,cpp,c,html,css,javascript" />
+</p>
+### ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,git,github,linux" />
+</p>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,github" />
+</p>
+### 🖥 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
 </p>
 
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,kubernetes" />
-</p>
+## 🚀 Projects
+### 🎟 Ticket Booking System (Golang Backend)
+### 🛡 Aegis Defence Grid (Collaboration Project)
+### 🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)
+### ⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
 
-### Tools & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postgresql" />
-</p>
-
-
-## 📌 Currently Learning
-
-- Building Go REST APIs (Clean Architecture)
-- Deploying projects on AWS (EC2, S3, IAM)
-- CI/CD with Jenkins + GitHub Actions
-- Infrastructure as Code using Terraform
-- Kubernetes fundamentals (step-by-step)
-
-
-## 🚀 Projects (Coming Soon)
-
-- 🔹
 
 ## 📫 Connect With Me
 <p align="left">
@@ -65,3 +81,8 @@
   </a>
 </p>
 
+Personal Corner
+<p align="center"> <img src="https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/main/pocket-diaries-logo.png" width="120" /> </p>
+
+📖 Pocket Diaries of Shreya — a small space where I share thoughtful reflections, tech learning, and personal vlogging.
+🔗 YouTube: @PocketDiariesofShreya
