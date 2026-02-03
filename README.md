@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Baranwal</h1>
 <h3 align="center">Go Backend Developer | AWS Certified | Aspiring Cloud & DevOps Engineer</h3>
+
 ```go
 package main
 
@@ -21,41 +22,48 @@ func main() {
 }
 
 ## 🚀 About Me
-- 💻 Learning Backend Development with **Golang**
-- 🎯 Actively preparing for **Backend / Cloud Internship Roles**
-- 🎤 Active in MUNs, public speaking, sponsorship, and event management
-- 🎯 Aspiring Cloud Architect, growing step-by-step through real projects
-- 🛠 Skilled in Docker, Git, and learning automation through CI/CD pipelines
+💻 Learning Backend Development with **Golang**
+🎯 Actively preparing for **Backend / Cloud Internship Roles**
+🎤 Active in MUNs, public speaking, sponsorship, and event management
+🎯 Aspiring Cloud Architect, growing step-by-step through real projects
+🛠 Skilled in Docker, Git, and learning automation through CI/CD pipelines
 
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages & Markup
+## 🛠 tech stack
+
+### languages & markup
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,python,bash,cpp,c,html,css,javascript" />
 </p>
-### ⚙️ DevOps & Cloud
+
+### devops & cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,git,github,linux" />
 </p>
-### 🎨 Frontend
+
+### frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
-### 🧰 Tools & IDEs
+
+### tools & ides
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,github" />
-</p>
-### 🖥 Operating Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma" />
 </p>
 
+### operating systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+</p>
+
+
 ## 🚀 Projects
-### 🎟 Ticket Booking System (Golang Backend)
-### 🛡 Aegis Defence Grid (Collaboration Project)
-### 🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)
-### ⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
+ 🎟 Ticket Booking System (Golang Backend)
+ 🛡 Aegis Defence Grid (Collaboration Project)
+ 🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)
+ ⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
 
 
 ## 📫 Connect With Me
@@ -81,8 +89,7 @@ func main() {
   </a>
 </p>
 
-Personal Corner
-<p align="center"> <img src="https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/main/pocket-diaries-logo.png" width="120" /> </p>
 
+### Personal Corner
 📖 Pocket Diaries of Shreya — a small space where I share thoughtful reflections, tech learning, and personal vlogging.
-🔗 YouTube: @PocketDiariesofShreya
+### 🔗 YouTube: @PocketDiariesofShreya
