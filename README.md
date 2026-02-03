@@ -1,34 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreya Baranwal</h1>
 <h3 align="center">Go Backend Developer | AWS Certified | Aspiring Cloud & DevOps Engineer</h3>
 
-```md
-```go
-package main
-
-import "fmt"
-
-type Engineer struct {
-	Name  string
-	Focus string
-}
-
-func main() {
-	me := Engineer{
-		Name:  "Shreya Baranwal",
-		Focus: "Backend + Cloud + DevOps",
-	}
-
-	fmt.Println("Hi, I'm", me.Name)
-	fmt.Println("Currently building skills in:", me.Focus)
-}
-
 ## 🚀 About Me
-💻 Learning Backend Development with **Golang**
-🎯 Actively preparing for **Backend / Cloud Internship Roles**
-🎤 Active in MUNs, public speaking, sponsorship, and event management
-🎯 Aspiring Cloud Architect, growing step-by-step through real projects
-🛠 Skilled in Docker, Git, and learning automation through CI/CD pipelines
 
+💻 Learning Backend Development with **Golang** <br>
+🎯 Actively preparing for **Backend / Cloud Internship Roles**<br>
+🎤 Active in MUNs, public speaking, sponsorship, and event management<br>
+☁️ Aspiring Cloud Architect, growing step-by-step through real projects<br>
+🛠 Skilled in Docker, Git, and learning automation through CI/CD pipelines
 
 ## 🛠 Tech Stack
 
@@ -59,10 +38,11 @@ func main() {
 
 
 ## 🚀 Projects
- 🎟 Ticket Booking System (Golang Backend)
- 🛡 Aegis Defence Grid (Collaboration Project)
- 🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)
- ⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
+
+🎟 Ticket Booking System (Golang Backend)<br>
+🛡 Aegis Defence Grid (Collaboration Project)<br>
+🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)<br>
+⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
 
 
 ## 📫 Connect With Me
@@ -88,7 +68,23 @@ func main() {
   </a>
 </p>
 
+### Intro
+```go
+package main
 
-### Personal Corner
-📖 Pocket Diaries of Shreya — a small space where I share thoughtful reflections, tech learning, and personal vlogging.
-### 🔗 YouTube: @PocketDiariesofShreya
+import "fmt"
+
+type Engineer struct {
+	Name  string
+	Focus string
+}
+
+func main() {
+	me := Engineer{
+		Name:  "Shreya Baranwal",
+		Focus: "Backend + Cloud + DevOps",
+	}
+
+	fmt.Println("Hi, I'm", me.Name)
+	fmt.Println("Currently building skills in:", me.Focus)
+}
