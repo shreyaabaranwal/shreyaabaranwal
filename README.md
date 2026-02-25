@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Baranwal</h1>
-<h3 align="center">Go Backend Developer | AWS Certified | Aspiring Cloud & DevOps Engineer</h3>
+<h3 align="center">Go Backend Developer | AWS Certified AI & CLOUD | Aspiring Cloud & DevOps Engineer</h3>
 
 ## 🚀 About Me
 
