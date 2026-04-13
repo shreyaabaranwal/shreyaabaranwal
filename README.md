@@ -36,15 +36,6 @@
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
 </p>
 
-
-## 🚀 Projects
-
-🎟 Ticket Booking System (Golang Backend)<br>
-🛡 Aegis Defence Grid (Collaboration Project)<br>
-🌍 TerraStorm — Cloud Native Land Monitoring (Hackathon Project)<br>
-⚙️ Automated CI/CD Pipeline Deployment (AWS ECS + Jenkins)
-
-
 ## 📫 Connect With Me
 <p align="left">
   <!-- LinkedIn -->
