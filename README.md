@@ -17,20 +17,20 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🔷 **Go Backend Developer** | AWS Certified (AI + Cloud)
-- 🎯 **Interests:** Backend Systems · Cloud Infra · DevOps · AIOps · Platform Engineering
-- 🌱 **Learning:** Golang · Kubernetes · Kafka · System Design · AI Infra
-- 🎤 **4+ MUNs** as Public Speaker & Delegate
-- 🏆 **Sponsorship Lead** @ E-Cell Club
-- ☁️ **AWS Cloud Club KIET** — DevOps Workshop & Bootcamp Lead
-- 🧑‍🏫 **Mentor** — guiding juniors in cloud & backend engineering
-- 📄 [**Resume**](YOUR_RESUME_LINK_HERE) &nbsp;|&nbsp; 🌐 [**Portfolio**](YOUR_PORTFOLIO_LINK_HERE)
+-  **Go Backend Developer** | AWS Certified (AI + Cloud + CloudOps + Data Engineering)
+-  **Interests:** Backend Systems · Cloud Infra · DevOps · AIOps · Platform Engineering
+-  **Learning:** Golang · System Design · AI Infra
+-  **4+ MUNs** as Public Speaker & Delegate
+-  **Sponsorship Lead** @ E-Cell Club
+-  **AWS Cloud Club KIET** — DevOps Workshop & Bootcamp Lead
+-  **Mentor** — guiding juniors in cloud & backend engineering
+-  [**Resume**](YOUR_RESUME_LINK_HERE) &nbsp;|&nbsp;  [**Portfolio**](YOUR_PORTFOLIO_LINK_HERE)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -70,30 +70,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 
----
 
-## 📊 GitHub Contributions
-
-<div align="center">
-
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<!-- 3D ISOMETRIC CONTRIBUTION GRAPH -->
-[![3D Contribution Graph](https://raw.githubusercontent.com/shreyaabaranwal/shreyaabaranwal/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/shreyaabaranwal)
-
-<!-- GITHUB SKYLINE LINK -->
-[![GitHub Skyline](https://img.shields.io/badge/🏙️_View_My_3D_GitHub_Skyline-2ecc71?style=for-the-badge&labelColor=0d1117)](https://skyline.github.com/shreyaabaranwal/2025)
-
-</div>
-
----
-
-## 📈 Stats
+## Stats
 
 <div align="center">
 
@@ -110,7 +88,7 @@
 
 ---
 
-## 📫 Connect
+##  Connect
 
 <div align="center">
 
