@@ -26,7 +26,7 @@
 -  **Sponsorship Lead** @ E-Cell Club
 -  **AWS Cloud Club KIET** — DevOps Workshop & Bootcamp Lead
 -  **Mentor** — guiding juniors in cloud & backend engineering
--  [**Resume**](YOUR_RESUME_LINK_HERE) &nbsp;|&nbsp;  [**Portfolio**](YOUR_PORTFOLIO_LINK_HERE)
+-  [**Resume**](YOUR_RESUME_LINK_HERE) &nbsp;|&nbsp;  [**Portfolio**](https://shreya-terminal-porfolio.vercel.app/)
 
 ---
 
@@ -100,7 +100,7 @@
 &nbsp;
 <a href="https://hashnode.com/@shreyabaranwaal"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 &nbsp;
-<a href="https://shreya-platform.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-2ecc71?style=for-the-badge&labelColor=0d1117"/></a>
+<a href="https://shreya-terminal-porfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-2ecc71?style=for-the-badge&labelColor=0d1117"/></a>
 &nbsp;
 <a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/📄_Resume-1e6091?style=for-the-badge&labelColor=0d1117"/></a>
 
