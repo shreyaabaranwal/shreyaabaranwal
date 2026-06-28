@@ -71,23 +71,6 @@
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 
 
-## Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=shreyaabaranwal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=ffffff" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaabaranwal&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2ecc71&text_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaabaranwal&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=2ecc71&ring=2ecc71&fire=ff6b35&currStreakLabel=2ecc71" />
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyaabaranwal&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&hide_border=true)](https://github.com/shreyaabaranwal)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shreyaabaranwal&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/shreyaabaranwal)
-
-</div>
-
----
-
 ##  Connect
 
 <div align="center">
