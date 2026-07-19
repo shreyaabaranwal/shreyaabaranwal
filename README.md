@@ -24,6 +24,7 @@
 -  **Learning:** Golang · System Design · AI Infra
 -  **4+ MUNs** as Public Speaker & Delegate
 -  **Sponsorship Lead** @ E-Cell Club
+-   Campus Ambassador @ IIT Bombay E-Cell
 -  **AWS Cloud Club KIET** — DevOps Workshop & Bootcamp Lead
 -  **Mentor** — guiding juniors in cloud & backend engineering
 
@@ -54,10 +55,3 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:0d1117&height=100&section=footer" />
 </div>
 
-<!--
-=== SETUP CHECKLIST ===
-1. Snake: Add GitHub Action → https://github.com/Platane/snk
-2. 3D Graph: Add GitHub Action → https://github.com/yoshi389111/github-profile-3d-contrib
-3. Replace YOUR_PORTFOLIO_LINK_HERE
-4. Replace YOUR_RESUME_LINK_HERE
--->
