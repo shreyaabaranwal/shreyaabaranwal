@@ -33,25 +33,4 @@
 
 
 
-##  Connect
-
-<div align="center">
-
-<a href="mailto:shreyabaranwal229@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/shreya-baranwal-1103802a5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://twitter.com/Shreyasher786"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-&nbsp;
-<a href="https://hashnode.com/@shreyabaranwaal"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-&nbsp;
-<a href="https://shreya-terminal-porfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-2ecc71?style=for-the-badge&labelColor=0d1117"/></a>
-&nbsp;
-<a href="YOUR_RESUME_LINK_HERE"><img src="https://img.shields.io/badge/📄_Resume-1e6091?style=for-the-badge&labelColor=0d1117"/></a>
-
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:0d1117&height=100&section=footer" />
-</div>
 
